@@ -1,0 +1,10 @@
+{
+  "name": "sentiment",
+  "description": "Sentiment Text Processing module for Meteor",
+  "homepage": "https://github.com/andreioprisan/meteor-sentiment",
+  "author": "Andrei Oprisan <andrei@oprisan.com>",
+  "version": "0.2.1",
+  "git": "https://github.com/andreioprisan/meteor-sentiment.git",
+  "packages": {
+  }
+}

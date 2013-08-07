@@ -1,0 +1,1 @@
+Sentiment = Npm.require("sentiment");
